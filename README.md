@@ -13,7 +13,7 @@ hold_action:
   action: none
 ```
 # Template Sensor
-My bins run a a 4-weekly scheduled
+My bins run a a 4-weekly schedule
 
 Week 0 is Red and Yellow bins.
 
