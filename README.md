@@ -1,7 +1,8 @@
 # Mushroom Card
 ![image](https://github.com/bremor/ha_bins/assets/34525505/fe5b2617-6ab0-4feb-b684-335ee2b69ff0)
 
-```type: custom:mushroom-entity-card
+```
+type: custom:mushroom-entity-card
 entity: sensor.bins
 name: Bins
 icon_type: entity-picture
@@ -22,7 +23,8 @@ Week 2 is Red, Yellow and Purple bins
 
 Icons have been uploaded into /icons in this repo.
 
-```template:
+```
+template:
   - sensor:
       - name: Bins
         state: >
